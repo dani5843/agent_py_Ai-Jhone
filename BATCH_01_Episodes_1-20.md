@@ -1,4 +1,4 @@
-# BATCH 01 — Episodes 1-20 (Full Scripts)
+# BATCH 01 - Episodes 1-20 (Full Scripts)
 
 [**20 Episodes Ready for Production — Copy & Paste Directly**]
 
