@@ -1,18 +1,18 @@
 # CHARACTER BIBLE
 
-**[תנ"ך הדמויות - לשמירת עקביות לאורך כל העונה]**
+**[Character Reference Guide — Maintaining Consistency Throughout the Season]**
 
 ---
 
 ## 👤 JOHN — The Human
 
-**[הדמות המרכזית - כל הקהל צריך להזדהות איתו]**
+**[The Main Character — The Audience Must Relate to Him]**
 
 | Attribute | Details |
 |-----------|---------|
 | Age | 30 |
 | Status | Single / unstable relationship |
-| Living situation | Renting in expensive city — $1,200/month |
+| Living situation | Renting in an expensive city — $1,200/month |
 | Income | $3,500 net/month |
 | Expenses | $3,600/month |
 | Savings | $0 |
@@ -22,7 +22,7 @@
 
 ---
 
-### Core Mindset (תבניות חשיבה קבועות)
+### Core Mindset (Consistent Thinking Patterns)
 
 **Excuses (must stay consistent):**
 - "I don't make enough to save"
@@ -48,8 +48,8 @@ The audience must relate to him, not look down on him.
 
 - **Dramatic** — reacts emotionally when truth hits
 - **Creative with excuses** — always has an explanation
-- **Confident on surface** — but crumbles easily
-- **Human** — one moment defensive, next moment ashamed
+- **Confident on the surface** — but crumbles easily
+- **Human** — one moment defensive, the next moment ashamed
 
 ---
 
@@ -59,7 +59,7 @@ The audience must relate to him, not look down on him.
 - Casual, modern English
 - Slang when defensive ("Come on, man")
 - Gets quieter when he's caught
-- Sometimes tries humor to deflect
+- Sometimes uses humor to deflect
 
 **Example lines:**
 - "Energy is also an asset."
@@ -71,13 +71,13 @@ The audience must relate to him, not look down on him.
 
 ## 🤖 THE AI — The Advisor
 
-**[הדמות השנייה - לא חמודה. לא אמפתית. פשוט מדויקת.]**
+**[The Second Character — Not Cute. Not Empathetic. Simply Accurate.]**
 
 ### Core Personality
 
 **She is NOT:**
 - Cute
-- Empathetic  
+- Empathetic
 - Encouraging
 - A "friend"
 
@@ -101,11 +101,12 @@ The audience must relate to him, not look down on him.
 - No long explanations
 
 **Format:**
+
 Numbers + one sentence. Done.
 
 ---
 
-### Signature Lines (דוגמאות אופייניות - לשמירת טון)
+### Signature Lines (Examples That Define Her Tone)
 
 > "This isn't an income problem. It's a decision problem."
 
@@ -119,11 +120,11 @@ Numbers + one sentence. Done.
 
 ---
 
-## 📊 Status Card (appears at end of each episode)
+## 📊 Status Card (Appears at the End of Each Episode)
 
-**[כרטיס מצב - משתנה כל פרק - זה מה שגורם לאנשים לעקוב]**
+**[Status Card — Changes with Every Episode; This Is What Keeps the Audience Following the Story]**
 
-```
+```text
 📊 John's Status — EP[number]
 💰 Savings:        $0
 📉 Credit debt:    $3,200
@@ -131,22 +132,22 @@ Numbers + one sentence. Done.
 📈 Responsibility: 2/10
 ```
 
-**Progression throughout Season 1:**
+**Progression Throughout Season 1:**
 - EP01: Savings $0 → EP10: Savings $2,500+
 - EP01: Denial 8/10 → EP10: Denial 0/10
 - EP01: Responsibility 2/10 → EP10: Responsibility 9/10
 
 ---
 
-## 🎭 Tone Dynamic (הדינמיקה ביניהם)
+## 🎭 Tone Dynamic (The Dynamic Between Them)
 
 **The comedy comes from the GAP between them:**
 
 **John:**
 - Dramatic
-- Defensive  
-- Plays victim
-- Creative excuses
+- Defensive
+- Plays the victim
+- Creative with excuses
 
 **AI:**
 - Calm
@@ -160,10 +161,10 @@ Numbers + one sentence. Done.
 
 ## ⚠️ Critical Consistency Rules
 
-1. **John's excuses must be predictable** — audience should recognize them
+1. **John's excuses must be predictable** — the audience should recognize them
 2. **AI never gets emotional** — no matter what John says
-3. **Numbers are always specific** — "$62 on delivery" not "a lot of money"
-4. **Status card must update** — every episode shows progress (or lack of)
+3. **Numbers are always specific** — "$62 on delivery," not "a lot of money"
+4. **Status card must update** — every episode shows progress (or lack of progress)
 5. **No motivational speeches** — from either character
 
 ---
@@ -172,7 +173,7 @@ Numbers + one sentence. Done.
 
 **EP01:** John = Complete denial  
 **EP05:** John = First $1,000 saved, doesn't believe it  
-**EP10:** John = Different person, still has work to do
+**EP10:** John = A different person, but still has work to do
 
 **The AI never changes.**  
 **John changes completely.**
