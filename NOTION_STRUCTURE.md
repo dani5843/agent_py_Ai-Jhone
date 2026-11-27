@@ -1,12 +1,12 @@
-# NOTION STRUCTURE — מדריך העתקה
+# NOTION STRUCTURE - Setup Guide
 
-**[איך לבנות את כל הפרויקט ב-Notion - צעד אחר צעד]**
+**[How to Build the Entire Project in Notion — Step by Step]**
 
 ---
 
-## 📋 מבנה עמודים ראשי
+## 📋 Main Page Structure
 
-```
+```text
 🏠 AI vs John — Master Dashboard
     │
     ├── 📊 Production Hub
@@ -43,38 +43,38 @@
     └── ⚖️ Legal
         ├── Copyright Notice
         ├── Trademark Plan
-        └── Brand Partnerships Terms
+        └── Brand Partnership Terms
 ```
 
 ---
 
-## 🏗️ איך לבנות - צעד אחר צעד
+## 🏗️ How to Build It — Step by Step
 
-### שלב 1: יצירת דף Master
+### Step 1: Create the Master Page
 
-1. פתחי Notion
-2. לחצי על **"+ New Page"**
-3. שם הדף: **"AI vs John — Master Dashboard"**
-4. סמל (emoji): 🤖
-5. תבנית: Blank page
+1. Open Notion.
+2. Click **"+ New Page"**.
+3. Name the page: **"AI vs John — Master Dashboard"**.
+4. Icon (emoji): 🤖
+5. Template: Blank Page.
 
 ---
 
-### שלב 2: יצירת טבלת סטטוס ראשית
+### Step 2: Create the Main Status Table
 
-הוסיפי **Database - Table** בראש הדף:
+Add a **Database — Table** at the top of the page:
 
-| שדה | סוג | מטרה |
-|-----|-----|------|
-| Episode | Number | מספר פרק |
-| Title | Text | כותרת הפרק |
+| Property | Type | Purpose |
+|-----|------|------|
+| Episode | Number | Episode number |
+| Title | Text | Episode title |
 | Status | Select | Draft / Ready / Posted / Analyzed |
-| Views | Number | צפיות |
-| Engagement | Number | אחוז engagement |
-| Posted Date | Date | תאריך העלאה |
-| Script Link | Relation | קישור לעמוד הסקריפט |
+| Views | Number | Number of views |
+| Engagement | Number | Engagement percentage |
+| Posted Date | Date | Publishing date |
+| Script Link | Relation | Link to the script page |
 
-**ערכים ל-Status Select:**
+**Status Select options:**
 - 🔴 Draft
 - 🟡 Ready for Production
 - 🟢 Posted
@@ -82,45 +82,46 @@
 
 ---
 
-### שלב 3: בניית עמודי Sub-Pages
+### Step 3: Build the Sub-Pages
 
 #### 📊 Production Hub
 
-יצרי דף **"Production Hub"** עם 5 sub-pages:
+Create a page called **"Production Hub"** with 5 sub-pages:
 
 1. **Character Bible**
-   - העתקי את התוכן מ-`01_CHARACTER_BIBLE.md`
-   - הוסיפי Toggle lists לכל דמות
-   - הוסיפי טבלה למשפטים אופייניים
+   - Copy the content from `01_CHARACTER_BIBLE.md`.
+   - Add toggle lists for each character.
+   - Add a table of signature lines.
 
 2. **Tone Guide**
-   - העתקי את התוכן מ-`02_TONE_GUIDE.md`
-   - הוסיפי Callout boxes לדוגמאות
-   - סמני Wrong vs Right בצבעים שונים
+   - Copy the content from `02_TONE_GUIDE.md`.
+   - Add callout boxes for examples.
+   - Highlight Wrong vs. Right examples in different colors.
 
 3. **Episode Structure**
-   - העתקי את התוכן מ-`03_EPISODE_STRUCTURE.md`
-   - הוסיפי Template button ליצירת פרק חדש
-   - Checklist לכל שלב
+   - Copy the content from `03_EPISODE_STRUCTURE.md`.
+   - Add a template button for creating new episodes.
+   - Add a checklist for each stage.
 
 4. **Season 1 Arc**
-   - טבלה של 10 הפרקים
-   - Timeline visualization
-   - קישורים לכל סקריפט
+   - Create a table covering all 10 episodes.
+   - Add a timeline visualization.
+   - Link each entry to its corresponding script.
 
 5. **Token Plan**
-   - Progress bar (34,000 tokens)
-   - Breakdown table
-   - Running count
+   - Add a progress bar (34,000 tokens).
+   - Add a breakdown table.
+   - Track the running total.
 
 ---
 
 #### 🎬 Scripts Section
 
-יצרי **Database - Gallery** עבור Scripts:
+Create a **Database — Gallery** for scripts.
 
-**תבנית לכל פרק:**
-```
+**Template for Each Episode:**
+
+```text
 📄 Episode [X] — [Title]
 
 Status: [Select]
@@ -142,7 +143,7 @@ Production Notes:
 
 ---
 
-Performance (post-posting):
+Performance (After Posting):
 Views: [number]
 Engagement: [%]
 Best comment: [text]
@@ -152,10 +153,10 @@ Best comment: [text]
 
 #### 🎨 Prompts & Assets
 
-יצרי sub-pages עבור:
+Create sub-pages for:
 
 1. **Leonardo Visual Prompts**
-   - Base scene (copy-paste ready)
+   - Base scene (ready to copy and paste)
    - Episode modifiers (dropdown)
    - Settings checklist
 
@@ -165,7 +166,7 @@ Best comment: [text]
    - Sample audio links
 
 3. **Ollama Agent**
-   - System prompt (copy-paste ready)
+   - System prompt (ready to copy and paste)
    - Usage examples
    - Command reference
 
@@ -173,9 +174,10 @@ Best comment: [text]
 
 #### 💰 Business Section
 
-יצרי **Dashboard page** עם 4 widgets:
+Create a **Dashboard Page** with 4 widgets:
 
 **Widget 1: Revenue Tracker**
+
 | Stream | This Month | Last Month | Total |
 |--------|------------|------------|-------|
 | Affiliate | $[X] | $[X] | $[X] |
@@ -184,22 +186,23 @@ Best comment: [text]
 | **Total** | **$[X]** | **$[X]** | **$[X]** |
 
 **Widget 2: Growth Metrics**
-```
-Followers:     [number] (+[%] this week)
-Avg Views:     [number]
-Engagement:    [%]
+
+```text
+Followers:      [number] (+[%] this week)
+Average Views:  [number]
+Engagement:     [%]
 Profile Visits: [number]
 ```
 
 **Widget 3: Next Milestones**
-- [ ] First $100 month
+- [ ] First $100 revenue month
 - [ ] 10K followers
 - [ ] First sponsor inquiry
-- [ ] First $1,000 month
+- [ ] First $1,000 revenue month
 
 **Widget 4: This Week's Focus**
-- [ ] Post EP [X-Y]
-- [ ] A/B test new hook
+- [ ] Publish EP [X-Y]
+- [ ] A/B test a new hook
 - [ ] Email 3 potential sponsors
 - [ ] Update affiliate links
 
@@ -207,21 +210,21 @@ Profile Visits: [number]
 
 #### 📈 Analytics Section
 
-יצרי **Database - Table** לכל פרק:
+Create a **Database — Table** for episode performance:
 
 | Episode | Posted | Views | Completion % | Profile Visits | Shares | Comments | Best Hook Score |
 |---------|--------|-------|--------------|----------------|--------|----------|-----------------|
 | EP01 | [date] | [X] | [%] | [X] | [X] | [X] | [1-10] |
 
-**עמודות מחושבות:**
+**Calculated Properties:**
 - Engagement Rate = (Likes + Comments + Shares) / Views
 - Conversion Rate = Profile Visits / Views
 
 ---
 
-## 🎨 עיצוב ויזואלי ב-Notion
+## 🎨 Visual Design in Notion
 
-### צבעים מומלצים
+### Recommended Colors
 
 **Headers:**
 - Production: 🔵 Blue
@@ -229,7 +232,7 @@ Profile Visits: [number]
 - Analytics: 🟡 Yellow
 - Legal: 🔴 Red
 
-**Callout boxes:**
+**Callout Boxes:**
 - ✅ Success: Green background
 - ❌ Avoid: Red background
 - 💡 Tip: Yellow background
@@ -237,21 +240,23 @@ Profile Visits: [number]
 
 ---
 
-## 🤖 אוטומציות (אופציונלי)
+## 🤖 Automations (Optional)
 
-### אם יש Notion Pro:
+### If You Have Notion Pro
 
-**אוטומציה 1: Episode Status**
-```
+**Automation 1: Episode Status**
+
+```text
 When: Script status changes to "Posted"
-Then: 
+Then:
   - Add to Analytics table
   - Send notification
   - Create follow-up task (check metrics in 24h)
 ```
 
-**אוטומציה 2: Revenue Milestone**
-```
+**Automation 2: Revenue Milestone**
+
+```text
 When: Total revenue > $100
 Then:
   - Check milestone box
@@ -263,16 +268,16 @@ Then:
 
 ## 📱 Mobile View
 
-**בנייה ל-mobile:**
-1. Board view עבור Scripts (drag between statuses)
-2. Gallery view עבור Episodes (visual thumbnails)
-3. Timeline עבור posting schedule
+**Mobile Setup:**
+1. Use Board view for Scripts (drag between statuses).
+2. Use Gallery view for Episodes (visual thumbnails).
+3. Use Timeline view for the posting schedule.
 
 ---
 
 ## 🔗 Integration Ideas
 
-**Link to:**
+**Connect to:**
 - [ ] Google Sheets (if tracking externally)
 - [ ] TikTok Analytics (manual export)
 - [ ] Gumroad dashboard (revenue)
@@ -283,59 +288,59 @@ Then:
 ## ✅ Setup Checklist
 
 ### Essential (Week 1)
-- [ ] Master dashboard created
-- [ ] Episode tracker table built
-- [ ] All 20 scripts uploaded
-- [ ] Character Bible copied
-- [ ] Prompts accessible
+- [ ] Create the Master Dashboard
+- [ ] Build the episode tracker table
+- [ ] Upload all 20 scripts
+- [ ] Copy the Character Bible
+- [ ] Make prompts accessible
 
-### Nice to Have (Week 2-4)
+### Nice to Have (Weeks 2-4)
 - [ ] Analytics database
 - [ ] Revenue tracker
 - [ ] Sponsor outreach tracker
-- [ ] A/B test log
+- [ ] A/B testing log
 - [ ] Content calendar
 
 ### Advanced (Month 2+)
 - [ ] Automated workflows
-- [ ] Custom views per role
-- [ ] Archive old seasons
-- [ ] Season 2 planning section
+- [ ] Custom views for each role
+- [ ] Archive previous seasons
+- [ ] Add a Season 2 planning section
 
 ---
 
 ## 💡 Pro Tips
 
 1. **Use Templates**
-   - Create "New Episode" button that auto-generates structure
-   - Saves 5 minutes per episode
+   - Create a "New Episode" button that automatically generates the episode structure.
+   - Saves 5 minutes per episode.
 
 2. **Link Everything**
-   - Every script should link back to Character Bible
-   - Every analytics entry should link to script
+   - Every script should link back to the Character Bible.
+   - Every analytics entry should link to its script.
 
-3. **Color Code Status**
-   - Visual scanning = faster decisions
-   - Red = needs attention, Green = good to go
+3. **Color-Code Status**
+   - Visual scanning means faster decisions.
+   - Red = needs attention; Green = ready to go.
 
 4. **Weekly Review Page**
-   - One page with:
+   - Create one page containing:
      - This week's posts
      - This week's revenue
      - This week's tasks
      - Next week's plan
 
 5. **Archive Old Content**
-   - After Season 1 ends, move to "Archive"
-   - Keeps main workspace clean
+   - After Season 1 ends, move it to an "Archive" section.
+   - Keeps the main workspace clean.
 
 ---
 
-## 🎯 הדף הכי חשוב - Weekly Command Center
+## 🎯 The Most Important Page — Weekly Command Center
 
-צרי דף **"This Week"** שמתעדכן כל שבוע:
+Create a page called **"This Week"** that gets updated every week:
 
-```
+```text
 🗓️ Week of [Date]
 
 📤 To Post:
@@ -351,20 +356,20 @@ Current: $[Y] ([Z]%)
 EP [X] — [Y] views
 
 🎯 Focus:
-[One sentence - what matters most this week]
+[One sentence — what matters most this week]
 
 ⚡ Quick Actions:
 - [ ] Check TikTok analytics
-- [ ] Reply to top 5 comments
+- [ ] Reply to the top 5 comments
 - [ ] Update affiliate dashboard
-- [ ] Plan next 5 scripts
+- [ ] Plan the next 5 scripts
 ```
 
 ---
 
-**זה הכל. עכשיו תעתיקי את הקבצים שלי ישר ל-Notion.**
+**That's it. Now copy your files directly into Notion.**
 
-**זמן בנייה:** 2-3 שעות  
-**תועלת:** לכל החיים של הפרויקט
+**Setup time:** 2-3 hours  
+**Benefit:** For the entire lifetime of the project
 
-**לכי עשי את זה עכשיו. 🚀**
+**Go build it now. 🚀**
