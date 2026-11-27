@@ -1,10 +1,10 @@
 # BATCH 01 — Episodes 1-20 (Full Scripts)
 
-**[20 פרקים מוכנים לייצור - להעתיק ישירות]**
+[**20 Episodes Ready for Production — Copy & Paste Directly**]
 
 ---
 
-## Episode 1 — Reality Check
+## Episode 1 - Reality Check
 
 **AI:** "John. How much money do you have saved?"
 
@@ -33,7 +33,7 @@ Every month you borrow $100 from your future."
 
 ---
 
-## Episode 2 — The Delivery Habit
+## Episode 2 - The Delivery Habit
 
 **AI:** "You spent $62 on delivery. Tuesday. 11pm."
 
@@ -60,7 +60,7 @@ That's 23% of the savings you planned to start 'next month.'"
 
 ---
 
-## Episode 3 — The Coffee Math
+## Episode 3 - The Coffee Math
 
 **AI:** "How much do you spend on coffee?"
 
@@ -83,7 +83,7 @@ Times 10 years is $18,250."
 
 ---
 
-## Episode 4 — First Budget
+## Episode 4 - First Budget
 
 **AI:** "You know the difference between you and someone who saves?"
 
@@ -169,7 +169,7 @@ You're losing money by doing nothing."
 
 ---
 
-## Episode 8 — Opening the Account
+## Episode 8 - Opening the Account
 
 **AI:** "10 minutes. That's all it takes to open an investment account."
 
@@ -189,7 +189,7 @@ And it's the most expensive one."
 
 ---
 
-## Episode 9 — Market Drops 8%
+## Episode 9 - Market Drops 8%
 
 **John:** "The market dropped 8%. I'm selling."
 
@@ -211,7 +211,7 @@ Fear is expensive."
 
 ---
 
-## Episode 10 — Holding Through Fear
+## Episode 10 - Holding Through Fear
 
 **AI:** "You didn't sell."
 
@@ -231,7 +231,7 @@ That's the difference."
 
 ---
 
-## Episode 11 — The Salary Myth
+## Episode 11 - The Salary Myth
 
 **John:** "If I just made more money, I'd save."
 
@@ -254,7 +254,7 @@ More money won't fix that."
 
 ---
 
-## Episode 12 — Lifestyle Inflation
+## Episode 12 - Lifestyle Inflation
 
 **AI:** "Got a raise?"
 
@@ -278,7 +278,7 @@ That's lifestyle inflation."
 
 ---
 
-## Episode 13 — Compound Interest
+## Episode 13 - Compound Interest
 
 **AI:** "$100 a month for 30 years at 7% return."
 
@@ -302,7 +302,7 @@ Time is the advantage. Not money."
 
 ---
 
-## Episode 14 — The Emergency Fund
+## Episode 14 - The Emergency Fund
 
 **John:** "Why do I need an emergency fund if I'm investing?"
 
@@ -324,7 +324,7 @@ Without savings, you panic sell at the worst time."
 
 ---
 
-## Episode 15 — Credit Card Debt
+## Episode 15 - Credit Card Debt
 
 **AI:** "You're investing while you have credit card debt?"
 
@@ -349,7 +349,7 @@ You're losing 12%."
 
 ---
 
-## Episode 16 — Net Worth
+## Episode 16 - Net Worth
 
 **AI:** "Your net worth is positive."
 
@@ -375,7 +375,7 @@ Net Worth: +$2,900
 
 ---
 
-## Episode 17 — Old John vs New John
+## Episode 17 - Old John vs New John
 
 **AI:** "Remember when you said you'd start 'next month'?"
 
@@ -401,7 +401,7 @@ Net Worth: +$4,000
 
 ---
 
-## Episode 18 — The Question
+## Episode 18 - The Question
 
 **John:** "Why didn't anyone teach me this?"
 
@@ -424,7 +424,7 @@ Net Worth: +$5,000
 
 ---
 
-## Episode 19 — Full Circle
+## Episode 19 - Full Circle
 
 **AI:** "John. How much money do you have saved?"
 
@@ -448,7 +448,7 @@ Net Worth: +$5,000
 
 ---
 
-## Episode 20 — The Real Question
+## Episode 20 - The Real Question
 
 **John:** "What's next?"
 
