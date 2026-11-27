@@ -1,12 +1,12 @@
-# LEONARDO AI — Visual Generation Prompts
+# LEONARDO AI - Visual Generation Prompts
 
-**[פרומפטים ויזואליים - העתק ל-Leonardo]**
+**[Visual Prompts - Copy into Leonardo AI]**
 
 ---
 
-## 🎨 BASE SCENE (Use for ALL episodes)
+## 🎨 BASE SCENE (Use for ALL Episodes)
 
-```
+```text
 Cinematic vertical scene, 9:16 aspect ratio, TikTok format.
 
 SETTING:
@@ -40,7 +40,7 @@ Medium close-up on John. Vertical framing (9:16).
 AI presence in frame but not dominant.
 
 NEGATIVE PROMPT:
-cartoon, anime, illustration, fantasy, humanoid robot, 
+cartoon, anime, illustration, fantasy, humanoid robot,
 stock photo look, over-saturated colors, flat lighting
 ```
 
@@ -48,31 +48,31 @@ stock photo look, over-saturated colors, flat lighting
 
 ## 🎭 Episode-Specific Modifiers
 
-**Add ONE of these to the base prompt depending on episode:**
+**Add ONE of these to the base prompt, depending on the episode:**
 
 ### EP01-05 — Denial Phase
-```
+```text
 John's expression: defensive, slightly annoyed, arms crossed.
 Body language: resistant, looking away from AI presence.
 Lighting on John: slightly harsh, unflattering but realistic.
 ```
 
 ### EP06-10 — Realization Phase
-```
+```text
 John's expression: confused, processing, hand on chin.
 Body language: less defensive, leaning slightly forward.
 Lighting on John: softening, more balanced.
 ```
 
 ### EP11-15 — Acceptance Phase
-```
+```text
 John's expression: focused, thoughtful, looking at phone/laptop.
 Body language: engaged, taking notes or typing.
 Lighting on John: balanced, cooperative with AI glow.
 ```
 
 ### EP16-20 — Transformation Phase
-```
+```text
 John's expression: calm, determined, slight confidence.
 Body language: relaxed but alert, eye contact with camera.
 Lighting on John: warm, integrated with AI presence.
@@ -82,7 +82,7 @@ Lighting on John: warm, integrated with AI presence.
 
 ## 🔧 Technical Settings (Leonardo Phoenix)
 
-```
+```text
 Aspect Ratio:      9:16 (Portrait)
 Model:             Phoenix or Alchemy v2
 Style:             Cinematic / Photorealistic
@@ -105,50 +105,50 @@ multiple people, crowd, logo, text, watermark
 For TikTok thumbnails, generate 3 expressions per batch:
 
 ### Variation A — Shocked
-```
+```text
 John's face: eyes wide, mouth slightly open, genuine surprise.
 Use for: Episodes revealing big numbers (EP2, EP3, EP13)
 ```
 
 ### Variation B — Defensive
-```
+```text
 John's face: eyebrows furrowed, slight frown, guarded.
-Use for: Episodes with excuses (EP1, EP6, EP7)
+Use for: Episodes featuring excuses (EP1, EP6, EP7)
 ```
 
 ### Variation C — Contemplative
-```
+```text
 John's face: soft focus, thinking, slight vulnerability.
-Use for: Episodes with realizations (EP10, EP18, EP19)
+Use for: Episodes featuring realizations (EP10, EP18, EP19)
 ```
 
 ---
 
-## 💡 Optimization Tips (לחסכון בטוקנים)
+## 💡 Optimization Tips (Token Savings)
 
-1. **Generate base scene ONCE** — save it
-2. **Use img2img** for variations (cheaper than text2img)
-3. **Only change John's expression** between episodes
-4. **Keep background identical** across all 20 episodes
-5. **Batch generate** — 5 episodes at once, same settings
+1. **Generate the base scene ONCE** — save it.
+2. **Use img2img** for variations (cheaper than text2img).
+3. **Only change John's expression** between episodes.
+4. **Keep the background identical** across all 20 episodes.
+5. **Batch generate** — 5 episodes at a time, using the same settings.
 
-**Token cost estimate:**
+**Estimated Leonardo Cost:**
 - Base scene: 1 generation
 - 20 episodes × 4 variations each: 80 generations
-- Total Leonardo cost: ~$10-15 (with subscription)
+- Total estimated Leonardo cost: ~$10-15 (with subscription)
 
 ---
 
 ## 🖼️ Alternative: Static Image Template
 
-**If budget is tight:**
+**If the budget is tight:**
 
-1. Generate **1 perfect base scene**
+1. Generate **one perfect base scene**.
 2. In editing software (CapCut/Premiere):
-   - Overlay text dialogue
-   - Add subtle Ken Burns zoom
-   - Change lighting tint per episode phase
-3. Only change thumbnail per episode
+   - Overlay the dialogue text.
+   - Add a subtle Ken Burns zoom.
+   - Change the lighting tint for each episode phase.
+3. Only change the thumbnail for each episode.
 
 **Cost:** 1 generation = $0.50
 
@@ -156,7 +156,7 @@ Use for: Episodes with realizations (EP10, EP18, EP19)
 
 ## 📦 Export Settings
 
-```
+```text
 Format:       PNG (high quality)
 Resolution:   1080 x 1920 (9:16)
 Color Space:  sRGB
@@ -169,32 +169,22 @@ File Size:    Under 5MB each
 
 Before finalizing visuals for all 20 episodes:
 
-- [ ] Same apartment in all episodes
-- [ ] AI presence consistent color/style
-- [ ] John's wardrobe consistent (or subtle progression)
-- [ ] Lighting follows emotional arc
-- [ ] No text/logos in generated images
-- [ ] Clean for text overlays in editing
+- [ ] Same apartment in every episode
+- [ ] Consistent AI presence color and style
+- [ ] Consistent wardrobe for John (or subtle progression)
+- [ ] Lighting follows the emotional arc
+- [ ] No text or logos in generated images
+- [ ] Clean space for text overlays during editing
 
 ---
 
-## 🎨 Color Palette (לשמירת אחידות)
+## 🎨 Color Palette (For Visual Consistency)
 
-**John (warm side):**
+**John (Warm Side):**
 - Skin tones: natural, realistic
 - Clothing: grays, blacks, muted blues
 - Background: warm tungsten light
 
-**AI (cool side):**
+**AI (Cool Side):**
 - Primary: Cool blue #4A9FFF
-- Accent: Cyan #00D9FF  
-- Glow: Soft white-blue
-
-**Overall:**
-- Dark background
-- High contrast
-- Cinematic grain (subtle)
-
----
-
-**Ready to generate? Copy base + modifier + settings.**
+- Accent:
