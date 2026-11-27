@@ -1,4 +1,4 @@
-# AI vs John — AI-Powered Content Production System
+# AI vs John - AI-Powered Content Production System
 
 AI vs John is a global TikTok series concept that uses satire to explore financial literacy through short dialogues between a rational AI advisor and a financially struggling character named John.
 
