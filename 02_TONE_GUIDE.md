@@ -1,9 +1,5 @@
 # TONE GUIDE
 
-**[מדריך הטון - חוקים לכתיבת דיאלוגים]**
-
----
-
 ## 🎭 Overall Series Tone
 
 **"A conversation no one wants to have but everyone needs."**
